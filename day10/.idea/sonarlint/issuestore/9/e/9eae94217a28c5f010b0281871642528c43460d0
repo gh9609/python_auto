@@ -1,0 +1,6 @@
+
+Gpython:S1066T"/Merge this if statement with the enclosing one.(¼¼ù 
+@python:S108")Either remove or fill this block of code.(ã‘Û¾
+;python:S125C"Remove this commented out code.(Õ½Ù²ÿÿÿÿÿ
+tpython:S1542"\Rename function "clear_EnvData_attrs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”Ûò˜
+Tpython:S5754?"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
